@@ -1,11 +1,9 @@
 ![Loliglio web page banner](https://2640050380-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fbu0mjMsSISfI64girFHC%2Fuploads%2FG1C5v7BsnxAxB13665Xl%2FNew%20Project%20(7).png?alt=media&token=c1c5a408-9834-4178-a89a-31a6b393c9e2)
 
 # Loliglio
-Riot API made easy!
-
+##Riot API made easy!
 Loliglio allows you to extract data from the Riot API easily for your app development. Loliglio Framework is also intuitive and free.
-
-# Capabilities
+## Capabilities
 - Ordered access to APIs through classes and methods. For example one can access the mastery information of a summoner via:
 - ChampionMastery.by_summoner(regionId, encryptedSummonerId)
 - Support for both Riot and Comunnity Dragon API. Facilitating the joint work of official information and information provided by the League of Legends community.
