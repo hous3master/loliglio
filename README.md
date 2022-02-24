@@ -1,3 +1,8 @@
+![Loliglio web page banner](https://2640050380-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fbu0mjMsSISfI64girFHC%2Fuploads%2FG1C5v7BsnxAxB13665Xl%2FNew%20Project%20(7).png?alt=media&token=c1c5a408-9834-4178-a89a-31a6b393c9e2)
+
+# Loliglio
+Riot API made easy!
+
 Loliglio allows you to extract data from the Riot API easily for your app development. Loliglio Framework is also intuitive and free.
 
 # Capabilities
