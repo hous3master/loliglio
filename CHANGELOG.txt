@@ -4,3 +4,15 @@ Change Log
 0.0.1 (24/02/2022)
 ------------------
 - First Release
+
+0.0.2 (24/02/2022)
+------------------
+- Fixed error when installing the package through PyPi
+
+0.0.3 (24/02/2022)
+------------------
+- Fixed error when importing the package through PyPi
+
+0.0.4 (24/02/2022)
+------------------
+- Fixed package name src instead of loliglio inside python
